@@ -28,6 +28,4 @@ Log of design decisions and reasoning, in chronological order.
 
 **Check:** path through diamond = 5*(-1) + 30 + 100 = 125. Comfortably higher than a same-length path without it (95).
 
-**Note for later:** this map is a fixed first version. Plan is to eventually load maps from a data file (not hardcoded), so the same agent/environment code can train on different layouts. Doing that now would add complexity before there's even one working training loop -- so the plan is: get one map fully working end-to-end first (env -> Q-learning -> training -> saved policy -> visualization), then generalize.
-
 ---
