@@ -8,7 +8,7 @@ Log of design decisions and reasoning, in chronological order.
 
 ---
 
-## Entry #1: Reward system
+## Notes #1: Reward system
 
 **Map:** 3x4 grid world, one wall cell, one diamond, one pit, one goal. Shortest path start->goal: **5 steps**. Shortest path including the diamond: also **5 steps** (no detour needed).
 
