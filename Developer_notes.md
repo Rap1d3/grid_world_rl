@@ -29,3 +29,5 @@ Log of design decisions and reasoning, in chronological order.
 **Check:** path through diamond = 5*(-1) + 30 + 100 = 125. Comfortably higher than a same-length path without it (95).
 
 ---
+
+## Notes #2: Agent
